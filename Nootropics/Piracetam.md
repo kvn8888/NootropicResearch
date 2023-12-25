@@ -2,13 +2,13 @@ Piracetam is a drug that was developed in the 1960s³. It is a [[nootropic]], a 
 
 Piracetam is part of the racetams group and is a cyclic **derivative of the neurotransmitter [[GABA]]¹⁴**. However, its mechanism of action differs from that of endogenous [[GABA]]¹⁴. It is thought to help cells in the brain and blood vessels function better²⁴. During aging and in some diseases, the membrane that surrounds cells starts to get stiff. Cells with a stiff membrane do not function as well. Some scientists think that piracetam helps maintain the membrane that surrounds cells so that they continue to function well²⁴.
 
-In terms of its uses, piracetam is most commonly used for breath-holding attacks, seizure disorder (epilepsy), dizziness (vertigo), a learning disorder marked by difficulty reading (dyslexia), and a movement disorder often caused by antipsychotic drugs (tardive dyskinesia)². It is also used for dementia, schizophrenia, sickle cell disease, and many other conditions, but there is no good scientific evidence to support many of these uses².
+In terms of its uses, piracetam is **most commonly used for** **epilepsy**, **dizziness**, **dyslexia**, and tardive dyskinesia². It is also used for **dementia**, **schizophrenia**, **sickle cell disease**, etc, but there is **no good scientific evidence to support many of these uses²**.
 
 The effectiveness of piracetam varies. Some research shows that taking piracetam for 2-3 months helps to reduce breath-holding spells in young children². It also seems to improve some reading skills in children aged 7-14 years with dyslexia²⁸. However, the evidence to support its use for many conditions is unclear²[^10^].
 
 As for **side effects**, piracetam has been observed to cause hyperkinesia, weight gain, nervousness, somnolence, depression, and asthenia¹. Other common **side effects include diarrhea, drowsiness, insomnia, nervousness, depression, and muscle spasm⁵**. Some people may also experience adverse effects, **including depression, agitation, tiredness, dizziness, insomnia, anxiety, headaches, nausea, paranoia, and diarrhea⁸**.
 
-In terms of legality, piracetam is an uncontrolled substance in the United States, meaning it is legal to possess without a license or prescription¹¹²¹³. However, its use in food, supplements, medical devices, insecticides, infant formula, cosmetics, animal feed, animal drugs, tobacco products, and drugs is unlawful and constitutes an act of misbranding¹¹²¹³. It is not approved by the FDA for any medical or dietary use³⁴.
+In terms of legality, **piracetam is an [[uncontrolled substance]]** in the United States, meaning it is legal to possess without a license or prescription¹¹²¹³. However, its use in food, supplements, medical devices, insecticides, infant formula, cosmetics, animal feed, animal drugs, tobacco products, and drugs is unlawful and constitutes an act of misbranding¹¹²¹³. It is not approved by the FDA for any medical or dietary use³⁴.
 
 Source: Conversation with Bing, 12/25/2023
 (1) What is piracetam used for? - Drugs.com. https://www.drugs.com/medical-answers/piracetam-3570384/.

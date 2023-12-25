@@ -1,10 +1,10 @@
-Gamma-aminobutyric acid (GABA) is a neurotransmitter, a chemical messenger in your brain. It slows down your brain by blocking specific signals in your central nervous system, which includes your brain and spinal cord². GABA is known for producing a calming effect and is thought to play a major role in controlling nerve cell hyperactivity associated with anxiety, stress, and fear². 
+Gamma-aminobutyric acid (GABA) is a [[neurotransmitter]], a chemical messenger in your brain. It slows down your brain by blocking specific signals in your central nervous system. GABA is known for producing a calming effect and plays a role in controlling nerve cell hyperactivity associated with anxiety, stress, and fear². 
 
-GABA is an inhibitory neurotransmitter, meaning it blocks or inhibits certain brain signals and decreases activity in your nervous system⁴. When GABA attaches to a protein in your brain known as a GABA receptor, it produces a calming effect¹¹. This can help with feelings of anxiety, stress, and fear¹¹. It may also help to prevent seizures¹¹.
+GABA is an **inhibitory** neurotransmitter⁴. When GABA attaches to a protein in your brain known as a GABA receptor, it produces a calming effect¹¹. This can help with feelings of anxiety, stress, and fear¹¹. It may also help to prevent seizures¹¹.
 
 There are two types of GABA receptors on nerve cells — GABA-A and GABA-B¹⁸. Although they work in different ways, when GABA binds to these receptors the result is that they decrease the responsiveness of the nerve cell¹⁸. This means that as an inhibitory neurotransmitter, GABA lessens the ability of a nerve cell to receive, create or send chemical messages to other nerve cells¹⁸.
 
-GABA supplements are used to lower stress, ease anxiety, and combat insomnia¹. However, in supplement form, only minimal amounts of GABA can actually cross the blood-brain barrier (BBB) and have any effect on the brain⁴. 
+GABA supplements are used to **lower stress, ease anxiety, and combat insomnia¹**. However, in *supplement form, only minimal amounts of GABA can actually cross the blood-brain barrier (BBB)* and have any effect on the brain⁴. 
 
 Potential benefits of GABA include reducing stress, relieving anxiety, improving sleep, and lowering blood pressure⁶. GABA can also help with inflammation issues, which means it may provide relief for people with PMS or other conditions that come with chronic pain³. Active people may find that GABA helps with recovery and may increase exercise tolerance³.
 

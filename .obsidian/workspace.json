@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nootropics.md",
+                "file": "Nootropics/Nootropics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piracetam.md",
+                "file": "Nootropics/Piracetam.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GABA.md",
+                "file": "Neurotransmitters/GABA.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note.md",
+                "file": "Neurotransmitters/neurotransmitter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65a52ba19033a5ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nootropics/Modafinil.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-Me-BC.md",
+                "file": "Nootropics/9-Me-BC.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New note.md",
+                "file": "Nootropics/Modafinil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New note.md",
+                "file": "Nootropics/Modafinil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New note.md"
+                "file": "Nootropics/Modafinil.md"
               }
             }
           }
@@ -213,19 +225,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4e7930700dff031",
+  "active": "65a52ba19033a5ad",
   "lastOpenFiles": [
+    "Nootropics/Piracetam.md",
+    "Nootropics/Nootropics.md",
+    "Nootropics/9-Me-BC.md",
+    "Nootropics/Modafinil.md",
+    "Nootropics/New note.md",
+    "Neurotransmitters/GABA.md",
+    "Neurotransmitters/neurotransmitter.md",
+    "Nootropics",
+    "Neurotransmitters",
     "NootropicResearch/Untitled.md",
-    "New note.md",
-    "GABA.md",
     "NootropicResearch/example.txt",
     "NootropicResearch/something",
     "NootropicResearch",
     "Notes",
-    "Notes/Untitled.canvas",
-    "Piracetam.md",
-    "Nootropics.md",
-    "9-Me-BC.md",
-    "Modafinil.md"
+    "Notes/Untitled.canvas"
   ]
 }
