@@ -1,4 +1,5 @@
-Is a gaming formula designed to enhance cognitive performance and gaming skills. Can also be used as a nootropic and energy stack for mentally demanding tasks. [[Recommended by Troy]]
+Is a gaming formula designed to enhance cognitive performance and gaming skills. Can also be used as a nootropic and energy stack for mentally demanding tasks. 
+#recommended-by-Troy
 
 **Ingredients:**
 - [[L-Tyrosine]]: 5000 mg
