@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "87db79b6036ae50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "498cc9ce3acaed83",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NootropicResearch/Untitled.md"
+                "file": "New note.md"
               }
             }
           }
@@ -201,8 +215,9 @@
   },
   "active": "d4e7930700dff031",
   "lastOpenFiles": [
-    "GABA.md",
     "NootropicResearch/Untitled.md",
+    "New note.md",
+    "GABA.md",
     "NootropicResearch/example.txt",
     "NootropicResearch/something",
     "NootropicResearch",
