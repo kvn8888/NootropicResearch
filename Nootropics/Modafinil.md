@@ -7,7 +7,7 @@ Modafinil is a wakefulness medication used to treat sleep apnea, narcolepsy, and
 Modafinil may impact other neurotransmitter systems such as [[Norepinephrine]], [[Serotonin]], and [[Glutamate]]
 
 **Analogues**:
-CRL - 40,941 (FL- Modafinil)
+CRL - 40,941 ([[FL- Modafinil]])
 Adrafinil
 FL Adrafinil
 Ar-mofafinil
