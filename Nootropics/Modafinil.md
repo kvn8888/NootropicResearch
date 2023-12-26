@@ -1,6 +1,7 @@
-//NOT AI
+#Eugeroics 
+#Stimulants 
 
-Modafinil is a wakefulness medication used to treat sleep apnea, narcolepsy, and shift work sleep disorder. 
+Modafinil is a non amphetamine CNS stimulant/wakefulness medication (FDA Approved) to treat sleep apnea, narcolepsy, and shift work sleep disorder. 
 
 **Mechanism of action**
 [[Dopamine]] reuptake inhibition (by binding to the dopamine reuptake pump) leading to an increase of extracellular dopamine, activation of Glutamatergic Circuits and the inhibition of [[GABA]], increases [[Orexin]] and [[Histamine]] neurons. The activation of orexin neurons is associated with psychoactivation and euphoria. 
