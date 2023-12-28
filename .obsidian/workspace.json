@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "b814b551103efa40",
+    "type": "split",
+    "children": [
+      {
+        "id": "045ffbf16f608eed",
+        "type": "tabs",
+        "dimension": 23.00177619893428,
+        "children": [
+          {
+            "id": "ea07ffc922085ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Nootropics/Nootropics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ad87fc68d49c319",
+        "type": "tabs",
+        "dimension": 76.99822380106572,
+        "children": [
+          {
+            "id": "caca4aaec35b91a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "85452b3a4f2f6e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How the internet works/Client.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c98ebe4ab6282197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How the internet works/Browser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4989f1ffa81d004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How the internet works/Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9da95569c90a6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How the internet works/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a30cb98924ea0d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Nootropics/FL- Modafinil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78bbae62f642ed16",
+    "type": "split",
+    "children": [
+      {
+        "id": "951a140c643cc4b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc1a15e833338dd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84229af26b3f7b00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d28d6393cb625937",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "8bc617b26ca4a086",
+    "type": "split",
+    "children": [
+      {
+        "id": "563365a43de69287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f16c101d7811c3e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research/Nootropics/FL- Modafinil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "542035a7f7cf1ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research/Nootropics/FL- Modafinil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fe90febef0e69d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39a385ce0e902d77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research/Nootropics/FL- Modafinil.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a30cb98924ea0d5f",
+  "lastOpenFiles": [
+    "Research/Nootropics/Modafinil.md",
+    "Research/Nootropics/Adderall.md",
+    "Research/Nootropics/Nootropics.md",
+    "Research/Neurotransmitters/GABA.md",
+    "How the internet works/DNS.md",
+    "Research/Nootropics/9-Me-BC.md",
+    "How the internet works/The Internet.md",
+    "How the internet works/Packets.md",
+    "How the internet works/Protocols.md",
+    "switches.md",
+    "How the internet works/Client.md",
+    "How the internet works/Browser.md",
+    "How the internet works/Server.md",
+    "How the internet works",
+    "LLMs"
+  ]
+}
