@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "045ffbf16f608eed",
-        "type": "tabs",
-        "dimension": 23.00177619893428,
-        "children": [
-          {
-            "id": "ea07ffc922085ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Nootropics/Nootropics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1ad87fc68d49c319",
         "type": "tabs",
-        "dimension": 76.99822380106572,
         "children": [
           {
             "id": "caca4aaec35b91a4",
@@ -77,26 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How the internet works/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a30cb98924ea0d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Nootropics/FL- Modafinil.md",
+                "file": "LANs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc617b26ca4a086",
@@ -162,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Nootropics/FL- Modafinil.md",
+                "file": "LANs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Nootropics/FL- Modafinil.md",
+                "file": "LANs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Nootropics/FL- Modafinil.md"
+                "file": "LANs.md"
               }
             }
           }
@@ -210,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,17 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a30cb98924ea0d5f",
+  "active": "f9da95569c90a6e7",
   "lastOpenFiles": [
+    "routers.md",
+    "LANs.md",
+    "How the internet works/Packets.md",
+    "How the internet works/The Internet.md",
+    "How the internet works/Protocols.md",
+    "How the internet works/DNS.md",
+    "Research/Nootropics/FL- Modafinil.md",
     "Research/Nootropics/Modafinil.md",
     "Research/Nootropics/Adderall.md",
     "Research/Nootropics/Nootropics.md",
     "Research/Neurotransmitters/GABA.md",
-    "How the internet works/DNS.md",
     "Research/Nootropics/9-Me-BC.md",
-    "How the internet works/The Internet.md",
-    "How the internet works/Packets.md",
-    "How the internet works/Protocols.md",
     "switches.md",
     "How the internet works/Client.md",
     "How the internet works/Browser.md",
