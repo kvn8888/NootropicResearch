@@ -2,7 +2,8 @@
 
 was the first drug to be labeled as a nootropic. It's used to improve memory, attention and learning. 
 
-The mechanism of action is not fully understood. 
+The mechanism of action is not fully understood. It's thought to help cells in the brain and blood vessels function better. It may help with the cell membranes with stiffness that occurs with aging. 
+Piracetam modulates the cholinergic, serotonergic, noradrenergic, and glutamatergic neurotransmission, although the drug does not display high affinity to any of the associated receptors [(go.drugbank.com)](https://go.drugbank.com/drugs/DB09210)
 
 Side effects: diarrhea, weight gain, drowsiness, insomnia, nervousness, depression, muscle spasm. 
 
