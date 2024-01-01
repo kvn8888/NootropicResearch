@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "27d723bc168bba24",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fbed72503e65a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "498cc9ce3acaed83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nootropics/9-Me-BC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91b652edd775dbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI explainations/Perplexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9818e617d6e6b597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nootropics/9-Me-BC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fddd5901a43667f",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e532f0cb1a061c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aaa58a4dfa4d7cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9223c0884c28ba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4e7930700dff031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d18187983b17243a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1124acd4bf8de586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c8bb279bf5d361",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nootropics/9-Me-BC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d517323a2b609db1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nootropics/9-Me-BC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a298c5983ca60a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69a85a4d67ba31bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nootropics/9-Me-BC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4e7930700dff031",
+  "lastOpenFiles": [
+    "Nootropics/Adderall.md",
+    "Nootropics/Cerebrolysin.md",
+    "AI explainations/Perplexity.md",
+    "Nootropics/9-Me-BC.md",
+    "nootropic.md",
+    "Nootropics/Modafinil.md",
+    "Nootropics/Dextroamphetamine.md",
+    "Nootropics/Piracetam.md",
+    "Nootropics/Nootropics.md",
+    "Nootropics/FL- Modafinil.md",
+    "Untitled",
+    "AI explainations/Adderall",
+    "AI explainations",
+    "Nootropics/Supplements/Alphabrain.md",
+    "Nootropics/Supplements/GorillaMind Respawn.md",
+    "Nootropics/Supplements",
+    "Neurotransmitters/GABA.md",
+    "Neurotransmitters/neurotransmitter.md",
+    "Nootropics/New note.md",
+    "Nootropics",
+    "Neurotransmitters",
+    "NootropicResearch/Untitled.md",
+    "NootropicResearch/example.txt",
+    "NootropicResearch/something",
+    "NootropicResearch",
+    "Notes",
+    "Notes/Untitled.canvas"
+  ]
+}
