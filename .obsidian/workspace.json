@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI explainations/Perplexity.md",
+                "file": "Nootropics/FL- Modafinil.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI explainations/Perplexity.md",
+                "file": "Nootropics/FL- Modafinil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI explainations/Perplexity.md",
+                "file": "Nootropics/FL- Modafinil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI explainations/Perplexity.md"
+                "file": "Nootropics/FL- Modafinil.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "caca4aaec35b91a4",
   "lastOpenFiles": [
+    "AI explainations/Perplexity.md",
     "Nootropics/Piracetam.md",
     "Nootropics/9-Me-BC.md",
     "Nootropics/Supplements/GorillaMind Respawn.md",
@@ -162,7 +163,6 @@
     "Neurotransmitters/neurotransmitter.md",
     "Neurotransmitters/GABA.md",
     "Neurotransmitters",
-    "AI explainations/Perplexity.md",
     "AI explainations",
     "How the internet works/switches.md",
     "How the internet works/LANs.md",
