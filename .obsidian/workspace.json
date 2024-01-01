@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nootropics/Piracetam.md",
+                "file": "AI explainations/Perplexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nootropics/Piracetam.md",
+                "file": "AI explainations/Perplexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nootropics/Piracetam.md",
+                "file": "AI explainations/Perplexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nootropics/Piracetam.md"
+                "file": "AI explainations/Perplexity.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "caca4aaec35b91a4",
   "lastOpenFiles": [
+    "Nootropics/Piracetam.md",
     "Nootropics/9-Me-BC.md",
     "Nootropics/Supplements/GorillaMind Respawn.md",
     "Nootropics/Supplements/Alphabrain.md",
     "Nootropics/Supplements",
-    "Nootropics/Piracetam.md",
     "Nootropics/Nootropics.md",
     "Nootropics/Modafinil.md",
     "Nootropics/FL- Modafinil.md",

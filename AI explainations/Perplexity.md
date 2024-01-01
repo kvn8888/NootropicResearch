@@ -120,3 +120,31 @@ Source: Conversation with Bing, 12/25/2023
 (11) Piracetam - PsychonautWiki. https://psychonautwiki.org/wiki/Piracetam.
 (12) Piracetam - Nootropics Expert. https://nootropicsexpert.com/piracetam/.
 (13) Illegal and Legal Nootropics - Quick Guide on Global Nootropic Laws .... https://www.mindlabpro.com/blogs/nootropics/legal-nootropics-guide/.
+
+Piracetam is a nootropic drug that has a variety of physiological effects, which may result from the restoration of cell membrane fluidity¹¹. It's a cyclic derivative of the neurotransmitter γ-aminobutyric acid (GABA), but its mechanism of action differs from that of endogenous GABA¹².
+
+**Mechanism of Action**
+- Piracetam is thought to help cells in the brain and blood vessels function better⁵. During aging and in some diseases, the membrane that surrounds cells starts to get stiff. Cells with a stiff membrane do not function as well. Some scientists think that piracetam helps maintain the membrane that surrounds cells so that they continue to function well⁵.
+- Piracetam modulates the cholinergic, serotonergic, noradrenergic, and glutamatergic neurotransmission, although the drug does not display high affinity to any of the associated receptors¹.
+- Piracetam is a positive allosteric modulator of the AMPA receptor²³. It is hypothesized to act on ion channels or ion carriers, thus leading to increased neuron excitability³.
+- Piracetam improves the function of the neurotransmitter acetylcholine via muscarinic cholinergic (ACh) receptors, which are implicated in memory processes². Furthermore, piracetam may have an effect on NMDA glutamate receptors, which are involved with learning and memory processes².
+- Piracetam works by increasing the effects of the neurotransmitter acetylcholine, which is responsible for memory, sensory perception, learning, and muscle movement, among others⁷. It increases the effects of this neurotransmitter at the receptors, thereby increasing its effects⁷.
+- Piracetam makes cell membranes more fluid. This makes it easier for cells to send and receive signals, which aids communication⁶. This could be a reason why its effects appear to be stronger in older adults and people with mental issues, as research shows that their cell membranes tend to be less fluid⁶.
+- Piracetam increases your brain’s blood supply, as well as oxygen and glucose consumption, especially in people with mental impairment⁶.
+
+Please note that while piracetam has been studied for various uses and has shown some potential benefits, it's important to consult with a healthcare provider before starting any new medication or supplement. This is especially true if you are currently taking any other medications, as piracetam may interact with them.
+
+Source: Conversation with Bing, 1/1/2024
+(1) Piracetam: A Review of Pharmacological Properties and Clinical Uses. https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC6741724&blobtype=pdf.
+(2) Piracetam: Uses, Interactions, Mechanism of Action | DrugBank Online. https://go.drugbank.com/drugs/DB09210.
+(3) Piracetam - Wikipedia. https://en.wikipedia.org/wiki/Piracetam.
+(4) PIRACETAM - Uses, Side Effects, and More - WebMD. https://www.webmd.com/vitamins/ai/ingredientmono-1597/piracetam.
+(5) Piracetam - PsychonautWiki. https://psychonautwiki.org/wiki/Piracetam.
+(6) Piracetam: Everything You Need to Know | by Strong Health - Medium. https://medium.com/@StrongHealth/piracetam-everything-you-need-to-know-a4060142c6e.
+(7) 5 Benefits of Piracetam (Plus Side Effects) - Healthline. https://www.healthline.com/nutrition/piracetam.
+(8) Piracetam: Indication, Dosage, Side Effect, Precaution - MIMS. https://www.mims.com/philippines/drug/info/piracetam/.
+(9) Piracetam: Review of Benefits, Effects, Dosage, and More - Braintropic. https://www.braintropic.com/nootropics/piracetam/.
+(10) Piracetam - Nootropics Expert. https://nootropicsexpert.com/piracetam/.
+(11) Piracetam: Benefits, Uses, Dosage, and Side Effects. https://evidencelive.org/piracetam/.
+(12) Piracetam & Your Brain | Cognitive Vitality | Alzheimer's Drug .... https://www.alzdiscovery.org/cognitive-vitality/ratings/piracetam.
+(13) Piracetam: A Nootropic Drug That May Offer Brain Benefits - Biostrap. https://biostrap.com/academy/piracetam/.
