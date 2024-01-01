@@ -1,1 +1,0 @@
-Local area networks are a group of connected  
