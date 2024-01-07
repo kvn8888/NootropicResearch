@@ -3,6 +3,8 @@
 
 Modafinil is a non amphetamine CNS stimulant/wakefulness medication (FDA Approved) to treat sleep apnea, narcolepsy, and shift work sleep disorder. 
 
+It matched Dextroamphetamine's and Ritalin's (methylphenidate) effectiveness in ADHD in small trials 
+
 **Mechanism of action**
 [[Dopamine]] reuptake inhibition (by binding to the dopamine reuptake pump) leading to an increase of extracellular dopamine, activation of Glutamatergic Circuits and the inhibition of [[GABA]], increases [[Orexin]] and [[Histamine]] neurons. The activation of orexin neurons is associated with psychoactivation and euphoria. 
 Modafinil may impact other neurotransmitter systems such as [[Norepinephrine]], [[Serotonin]], and [[Glutamate]]

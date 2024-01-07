@@ -25,7 +25,7 @@ Inhibition of serotonin, norepinephrine and dopamine transporters can occur via 
 
 Bing: *It releases these neurotransmitters from synaptic vesicles via vesicular monoamine transporter*
 
-Amphetamine increases neurotransmitter levels my stimulating their release from neurons and blocking their reuptake. 
+Amphetamine increases neurotransmitter levels by stimulating their release from neurons and blocking their reuptake. 
 
 Amphetamine inhibits [[monoamine oxidase]], an enzyme that breaks down these monoamine neurotransmitters
 

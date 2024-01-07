@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nootropics/FL- Modafinil.md",
+                "file": "Nootropics/Modafinil.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4a0a0dc4e530a1c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nootropics/FL- Modafinil.md",
+                "file": "Nootropics/Modafinil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nootropics/FL- Modafinil.md",
+                "file": "Nootropics/Modafinil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nootropics/FL- Modafinil.md"
+                "file": "Nootropics/Modafinil.md"
               }
             }
           }
@@ -149,6 +159,7 @@
   },
   "active": "caca4aaec35b91a4",
   "lastOpenFiles": [
+    "Nootropics/FL- Modafinil.md",
     "AI explainations/Perplexity.md",
     "Nootropics/Piracetam.md",
     "Nootropics/9-Me-BC.md",
@@ -157,7 +168,6 @@
     "Nootropics/Supplements",
     "Nootropics/Nootropics.md",
     "Nootropics/Modafinil.md",
-    "Nootropics/FL- Modafinil.md",
     "Nootropics/Adderall.md",
     "Nootropics",
     "Neurotransmitters/neurotransmitter.md",
