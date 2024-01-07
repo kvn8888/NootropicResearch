@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nootropics/Modafinil.md",
+                "file": "Glutamate.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nootropics/Modafinil.md",
+                "file": "Glutamate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nootropics/Modafinil.md",
+                "file": "Glutamate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nootropics/Modafinil.md"
+                "file": "Glutamate.md"
               }
             }
           }
@@ -159,6 +159,13 @@
   },
   "active": "caca4aaec35b91a4",
   "lastOpenFiles": [
+    "Neurotransmitters/GABA.md",
+    "Glutamate.md",
+    "Nootropics/Modafinil.md",
+    "References/@greenblattModafinil2023.md",
+    "@greenblattModafinil2023.md",
+    "References",
+    "[Modafinil.md",
     "Nootropics/FL- Modafinil.md",
     "AI explainations/Perplexity.md",
     "Nootropics/Piracetam.md",
@@ -167,11 +174,9 @@
     "Nootropics/Supplements/Alphabrain.md",
     "Nootropics/Supplements",
     "Nootropics/Nootropics.md",
-    "Nootropics/Modafinil.md",
     "Nootropics/Adderall.md",
     "Nootropics",
     "Neurotransmitters/neurotransmitter.md",
-    "Neurotransmitters/GABA.md",
     "Neurotransmitters",
     "AI explainations",
     "How the internet works/switches.md",
@@ -186,10 +191,6 @@
     "How the internet works/Browser.md",
     "How the internet works",
     "LLMs",
-    "LANs.md",
-    "routers.md",
-    "Research/Nootropics/FL- Modafinil.md",
-    "Research/Nootropics/Modafinil.md",
-    "Research/Nootropics/Adderall.md"
+    "LANs.md"
   ]
 }

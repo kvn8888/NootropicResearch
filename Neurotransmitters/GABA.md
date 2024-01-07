@@ -1,3 +1,12 @@
+GABA is the primary inhibitory neurotransmitter in the brain. It's role is to inhibit or reduce neuronal activity, opposite of [[Glutamate]] When it's released into synapses, it bings to GABA receptors, causing the neuron's membrane to become more negative, decreasing the excitability by reducing the action potential. It plays a role in maintaining brain balance and prevents excessive neural activity that could lead to seizures, anxiety, etc. There are medications like [[benzodiazepines]] and barbiturates that enhance GABA's inhibitory effects and are used to treat anxiety, insomnia, etc. 
+
+
+
+
+
+
+
+Bing: 
 Gamma-aminobutyric acid (GABA) is a [[neurotransmitter]], a chemical messenger in your brain. It slows down your brain by blocking specific signals in your central nervous system. GABA is known for producing a calming effect and plays a role in controlling nerve cell hyperactivity associated with anxiety, stress, and fear². 
 
 GABA is an **inhibitory** neurotransmitter⁴. When GABA attaches to a protein in your brain known as a GABA receptor, it produces a calming effect¹¹. This can help with feelings of anxiety, stress, and fear¹¹. It may also help to prevent seizures¹¹.
